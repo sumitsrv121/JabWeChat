@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">EYE</string>
+    <string name="option">This is Main Page</string>
+    <string name="newaccount">NEED NEW ACCOUNT?</string>
+    <string name="emailHint">Email</string>
+    <string name="passwordHint">Password</string>
+    <string name="displaynameHint">Display Name</string>
+    <string name="create_account">Create Account</string>
+    <string name="Logout">Log Out</string>
+    <string name="create_new_account">Create a New Account</string>
+    <string name="already">Already Have Account</string>
+    <string name="welcome_msg">Welcome To Jab We Chat</string>
+    <string name="Logintoyouraccount">Login to your Account</string>
+    <string name="login">Login</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_status">Hi there, i am using Jab We Chat</string>
+    <string name="changesatus">Change Status</string>
+    <string name="changeimage">Change Image</string>
+    <string name="new_status">Your Status</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="totalFriend">Total Friends</string>
+    <string name="sendFriendrequest">Send Friend Request</string>
+    <string name="declineFriendrequest">Decline Friend Request</string>
+    <string name="lastseen">Last Seen</string>
+    <string name="EnterMessage">Write Message Here....</string>
+</resources>
